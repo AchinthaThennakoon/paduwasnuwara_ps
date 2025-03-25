@@ -1,32 +1,60 @@
 {
   "applications": [
     {
-      "name": "Application for Right to Information",
-      "file": "right_to_know.pdf"
-    },
-    {
-      "name": "Charges for services and property rentals",
-      "file": "gasthu_ayakirim.pdf"
-    },
-    {
-      "name": "Application for a Certificate of Conformity",
-      "file": "Anukuulatha-Application.pdf"
-    },
-    {
-      "name": "Application for a new Environmental Protection Permit",
-      "file": "parisara_arakshana_balapathraya_aluthin.pdf"
-    },
-    {
-      "name": "Application for a new Environmental Protection Permit",
-      "file": "parisara_arakshana_balapathraya_aluthin.pdf"
-    },
-    {
-      "name": "Application for a new Environmental Protection Permit",
-      "file": "parisara_arakshana_balapathraya_aluthin.pdf"
-    },
-    {
-      "name": "Application for Gully Bowser",
+      "name": "gully_bowser",
       "file": "gully_bowser.pdf"
+    },
+    {
+      "name": "අනුකූලතා සහතිකය ලබාගැනීම සදහා අයදුම්පත්",
+      "file": "අනුකූලතා සහතිකය ලබාගැනීම සදහා අයදුම්පත්.pdf"
+    },
+    {
+      "name": "ආදාහනාගාර ඉල්ලුම් පත්_රය",
+      "file": "ආදාහනාගාර ඉල්ලුම් පත්_රය.pdf"
+    },
+    {
+      "name": "එළිමහන් ස්ථාන වෙන්කිරීමේ අයදුම් පත්_රය",
+      "file": "එළිමහන් ස්ථාන වෙන්කිරීමේ අයදුම් පත්_රය.pdf"
+    },
+    {
+      "name": "කුඩාරම් ඉල්ලුම් පතු",
+      "file": "කුඩාරම් ඉල්ලුම් පතු.pdf"
+    },
+    {
+      "name": "කුලී පදනමට මෝටර් ග්_රේඩරය ,තලන යන්ත්_රය,බැකෝ ලෝඩර් යන්ත්_රය ලබා ගැනීමේ අයදුම්පත්_රය",
+      "file": "කුලී පදනමට මෝටර් ග්_රේඩරය ,තලන යන්ත්_රය,බැකෝ ලෝඩර් යන්ත්_රය ලබා ගැනීමේ අයදුම්පත්_රය.pdf"
+    },
+    {
+      "name": "කොඩි කණු කුළියට දීම",
+      "file": "කොඩි කණු කුළියට දීම.pdf"
+    },
+    {
+      "name": "පිඹුරැපත අනුමත කිරීම ග්_රාමිය",
+      "file": "පිඹුරැපත අනුමත කිරීම ග්_රාමිය.pdf"
+    },
+    {
+      "name": "පිඹුරැපත අනුමත කිරීම නාගරික",
+      "file": "පිඹුරැපත අනුමත කිරීම නාගරික.pdf"
+    },
+    {
+      "name": "පොල භුමිය වෙන්කීරීම අයදුමි පතය",
+      "file": "පොල භුමිය වෙන්කීරීම අයදුමි පතය.pdf"
+    },
+    {
+      "name": "බවුසරය මගින් ජලය විකිණීම සඳහා අයදුම් පත්",
+      "file": "බවුසරය මගින් ජලය විකිණීම සඳහා අයදුම් පත්.pdf"
+    },
+    {
+      "name": "බවුසරය මගින් ජලය විකිණීම සඳහා අයදුම් පත්_රය",
+      "file": "බවුසරය මගින් ජලය විකිණීම සඳහා අයදුම් පත්_රය.pdf"
+    },
+    {
+      "name": "විඨිරේඛා අයදුම් පත",
+      "file": "විඨිරේඛා අයදුම් පත.pdf"
+    },
+    {
+      "name": "සියඹලාගස්වැටිය වැව පරිශ්_රය වෙන්කිරීමේ අයදුම්පත්_රය",
+      "file": "සියඹලාගස්වැටිය වැව පරිශ්_රය වෙන්කිරීමේ අයදුම්පත්_රය.pdf"
     }
   ],
   "budgets": [
