@@ -27,6 +27,13 @@ function App() {
 
       <div className="mt-[170px]">
         <Routes>
+          <Route path="/environment-water" element={<EnvironmentAndWater />} />
+          <Route
+            path="/education-recreation"
+            element={<EducationAndRecreation />}
+          />
+          <Route path="/animals-pets" element={<AnimalsAndPets />} />
+          <Route path="/gully-bowser" element={<GullyBowserService />} />
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/online-payment" element={<OnlinePayment />} />
@@ -36,14 +43,6 @@ function App() {
           <Route path="/feedback" element={<Feedback />} />
           <Route path="/downloads" element={<Downloads />} />
           <Route path="/video-gallery" element={<VideoGallery />} />
-
-          <Route path="/environment-water" element={<EnvironmentAndWater />} />
-          <Route
-            path="/education-recreation"
-            element={<EducationAndRecreation />}
-          />
-          <Route path="/animals-pets" element={<AnimalsAndPets />} />
-          <Route path="/gully-bowser" element={<GullyBowserService />} />
         </Routes>
       </div>
 
