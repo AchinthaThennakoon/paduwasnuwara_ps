@@ -1,0 +1,41 @@
+{
+  "branch_name1": "Panduwasnuwara",
+  "branch_name2": "Pradeshiya Sabha",
+  "online_payment": "Online Payment",
+  "have_a_complaint": "Have a Complaint",
+  "inquiry": "Inquiry",
+  "emergency": "Emergency",
+  "feedback": "Feedback",
+
+  "welcome": "Welcome to our website",
+  "about": "About Us",
+  "contact": "Contact",
+  "services": "Our Services are, Web development,Artificial Intelligence and Data analytics",
+
+  "address-label": "Our Location",
+  "phone_number": "Phone Number",
+  "email_address": "Email Address",
+  "address": "Paduwasnuwara Pradeshiya Sabha, Hettipola",
+  "contact_us_txt": "Contact us for any issues you may have. We are dedicated to assisting you!",
+  "contact_us": "Contact Us",
+  "get_in_touch": "Get In Touch With Us",
+
+  "name_label": "Your Name",
+  "email_label": "Your Email",
+  "phone_label": "Your Phone",
+  "message_label": "Your Message",
+  "send_message": "Send Email",
+
+  "download": "Download",
+  "Applications": "Applications",
+  "Budget": "budget",
+  "Final accounts": "Final accounts",
+  "General Assembly Reports": "General Assembly Reports",
+  "Budget reports": "Budget reports",
+  "Local Government Policy Statement": "Local Government Policy Statement",
+
+  "vision": "VISION",
+  "mission": "MISSION STATEMENT",
+  "vision_text": "Efficiency for People's Productivity",
+  "mission_text": "Ensuring sustainable socio-economic and cultural development by using resources effectively and efficiently with environmental sensitivity in a participatory approach. Committed to providing reliable service to maintain optimal levels."
+}

@@ -1,0 +1,46 @@
+{
+  "applications": [
+    {
+      "name": "Application for Right to Information",
+      "file": "right_to_know.pdf"
+    },
+    {
+      "name": "Charges for services and property rentals",
+      "file": "gasthu_ayakirim.pdf"
+    },
+    {
+      "name": "Application for a Certificate of Conformity",
+      "file": "Anukuulatha-Application.pdf"
+    },
+    {
+      "name": "Application for a new Environmental Protection Permit",
+      "file": "parisara_arakshana_balapathraya_aluthin.pdf"
+    },
+    {
+      "name": "Application for a new Environmental Protection Permit",
+      "file": "parisara_arakshana_balapathraya_aluthin.pdf"
+    },
+    {
+      "name": "Application for a new Environmental Protection Permit",
+      "file": "parisara_arakshana_balapathraya_aluthin.pdf"
+    },
+    {
+      "name": "Application for Gully Bowser",
+      "file": "gully_bowser.pdf"
+    }
+  ],
+  "budgets": [
+    {
+      "name": "2025 අයවැය ලේඛනය",
+      "file": "2025 අයවැය ලේඛනය.pdf"
+    },
+    {
+      "name": "2024 අයවැය ලේඛනය",
+      "file": "2024 අයවැය ලේඛනය.pdf"
+    }
+  ],
+  "finalAccounts": [],
+  "generalAssemblyReports": [],
+  "budgetReports": [],
+  "localGovPolicy": []
+}
