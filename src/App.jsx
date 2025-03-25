@@ -43,7 +43,6 @@ function App() {
             element={<EducationAndRecreation />}
           />
           <Route path="/animals-pets" element={<AnimalsAndPets />} />
-
           <Route path="/gully-bowser" element={<GullyBowserService />} />
         </Routes>
       </div>
