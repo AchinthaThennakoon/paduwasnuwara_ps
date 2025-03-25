@@ -11,9 +11,9 @@ import {
 } from "@mui/icons-material";
 
 const contactInfo = [
-  { icon: <LocationOn />, text: "Puttalam Road, Wennappuwa" },
-  { icon: <Phone />, text: "0312 255 276" },
-  { icon: <Mail />, text: "wennappuwaps@gmail.com" },
+  { icon: <LocationOn />, text: "Paduwasnuwara Pradeshiya Sabha, Hettipola" },
+  { icon: <Phone />, text: "0372 291 075" },
+  { icon: <Mail />, text: "Panduwasnuwaraps@gmail.com" },
 ];
 
 const quickLinks = [
